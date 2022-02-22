@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate with anyone on any project using Python and Java
 - 💬 Ask me about anything
 - 📫 How to reach me: danielbzhang@gmail.com
-- ⚡ Fun fact: I love cooking and trying different cusines
 
 
 <br />
