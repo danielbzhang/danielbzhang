@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Daniel, currently located in Upstate NY, my background is in Mathematics
+## Hi there 👋 my name is Daniel, I'm currently located in Upstate NY, my background is in Mathematics
 
 - 🌱 I’m currently learning Java and Django
 - 👯 I’m looking to collaborate with anyone on any project using Python and Java
