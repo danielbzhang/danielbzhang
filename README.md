@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Django
 - 👯 I’m looking to collaborate with anyone on any project using Python and Java
 - 💬 Ask me about anything
-- 📫 How to reach me: [email](daniel.b.zhangusa@gmail.com)
+- 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
 
 <br />
