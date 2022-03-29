@@ -1,7 +1,6 @@
 ## Hi there 👋 my name is Daniel, I'm currently located in Upstate NY, my background is in Mathematics
 
 - 🌱 I’m currently learning Java and Machine Learning
-- 👯 I’m looking to collaborate with anyone on any project using Python and Java
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
