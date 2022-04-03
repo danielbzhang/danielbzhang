@@ -5,7 +5,7 @@
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
 
-<br />
+<br/>
 
 ## Languages and Tools:
 
