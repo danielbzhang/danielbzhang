@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Daniel, my background is in Mathematics
 
-- 🌱 I’m currently learning Java and NoSQL(MongoDB)
+- 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
