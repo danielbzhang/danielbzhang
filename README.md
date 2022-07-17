@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Daniel, my background is in Mathematics
+## Hi there 👋
 
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything
