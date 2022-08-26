@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m a full-stack Javascript software engineer student
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
