@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m a full-stack Javascript software engineering student
+- 🌱 I’m a full-stack Javascript software engineer
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
