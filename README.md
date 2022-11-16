@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m a full-stack Javascript software engineer
-- 💬 Ask me about anything
+- 💬 Currently learning Java
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
 
