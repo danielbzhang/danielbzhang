@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 Full-stack JavaScript: MERN
-- 💬 Currently learning Java & Data Structures and Algorithms with Python
+- 💬 Currently learning Data Structures and Algorithms with Python
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
 
