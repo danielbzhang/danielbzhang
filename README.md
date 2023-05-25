@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Daniel 👋
 
-- 🌱 Full-stack JavaScript: MERN
+- 🌱 Full-stack JavaScript, Python
 - 💬 Currently learning Data Structures and Algorithms with Python
 - 📫 How to reach me: [email](mailto:daniel.b.zhangusa@gmail.com)
 
